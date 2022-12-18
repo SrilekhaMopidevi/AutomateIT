@@ -6,8 +6,8 @@ Automation is about reducing human effort in doing the routine tasks repeatedly 
 An No code/Less code alternative automation tool
 ### Automation tools exsisting in the market:
 - UI Path
--Blue Prism 
--IBM RPA
+- Blue Prism 
+- IBM RPA
 - Automation Edge
 - SAP build process automation
 - Pega robotic automation
